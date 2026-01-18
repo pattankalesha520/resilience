@@ -50,13 +50,13 @@ containerized systems into resilient, self-healing infrastructures suitable for 
   
 ### Experimental Results (Summary)
 
-  | Nodes | Baseline (ms) | AI-Optimized (ms) | Improvment (%)  |
-  |-------|---------------| ------------------| ----------------|
-  | 3     |  410          | 260               | 36.59           |
-  | 5     |  375          | 225               | 40.00           |
-  | 7     |  340          | 195               | 42.65           |
-  | 9     |  315          | 175               | 44.44           |
-  | 11    |  295          | 165               | 44.07           |
+  | Nodes | Baseline MTBF (hrs) | Enhanced MTBF (hrs) | Improvment (%)  |
+  |-------|---------------------| --------------------| ----------------|
+  | 3     |  38                 | 66                  | 73.68           |
+  | 5     |  51                 | 87                  | 70.59           |
+  | 7     |  63                 | 106                 | 68.25           |
+  | 9     |  70                 | 120                 | 71.43           |
+  | 11    |  76                 | 134                 | 76.32           |
 
 ### Citation
 FAULT RECOVERY AND RESILIENCE IN CONTAINERIZED DISTRIBUTED SYSTEMS
