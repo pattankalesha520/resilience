@@ -59,14 +59,14 @@ containerized systems into resilient, self-healing infrastructures suitable for 
   | 11    |  295          | 165               | 44.07           |
 
 ### Citation
-AI-DRIVEN SCALING STRATEGIES FOR ADAPTIVE WORKLOAD MANAGEMENT IN DISTRIBUTED CLOUD SYSTEMS
+FAULT RECOVERY AND RESILIENCE IN CONTAINERIZED DISTRIBUTED SYSTEMS
 * Kalesha Khan Pattan
-* International Journal of Leading Research Publication 
-* ISSN E-ISSN: 2582-8010
+* International Journal on Science and Technology 
+* ISSN E-ISSN: 2229-7677
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijlrp.com/ \
+https://www.ijsat.org/ \
 **Author Contact** \
 **LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
 
