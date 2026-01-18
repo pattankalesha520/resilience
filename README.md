@@ -1,5 +1,5 @@
 
-# resielence
+# resilience
 **FAULT RECOVERY AND RESILIENCE IN CONTAINERIZED DISTRIBUTED SYSTEMS**
 
 ### Paper Information
