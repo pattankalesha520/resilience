@@ -7,7 +7,7 @@
 - **Published In:** International Journal on Science and Technology (IJSAT)
 - **Publication Date:** Aug 2023
 - **ISSN:** E-ISSN: 2229-7677
-- **DOI:**
+- **DOI:** https://doi.org/10.71097/IJSAT.v14.i3.9076
 - **Impact Factor:** 9.88
 
 ### Abstract
@@ -68,7 +68,7 @@ This research is shared for a academic and research purposes. For commercial use
 **Resources** \
 https://www.ijsat.org/ \
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
+**LinkedIn**: www.linkedin.com/in/pattan-khan-689978177 | **Email**: pattankalesha520@gmail.com
 
 
 
